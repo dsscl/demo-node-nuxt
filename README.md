@@ -20,3 +20,4 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+一个基于nuxt.js搭建的node.js前后同构项目
